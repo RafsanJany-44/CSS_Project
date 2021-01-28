@@ -22,6 +22,7 @@ body{
 }
 
 
+
 .dram2{
     width: 80%x;
     margin: auto;
@@ -34,4 +35,29 @@ body{
     border-left: 1px darkturquoise solid;
     border-top: 5px darkturquoise solid;
     border-bottom: 5px darkturquoise solid;
+    border-style: dotted;
+
+}
+
+
+
+.dram3{
+    width: 80%x;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.box-3{
+    background-color: rgb(20, 3, 118);
+    color: rgb(134, 134, 213);
+    border-right:1px darkturquoise solid;
+    border-left: 1px darkturquoise solid;
+    border-top: 5px darkturquoise solid;
+    border-bottom: 5px darkturquoise solid;
+    border-style: dotted;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
 }
