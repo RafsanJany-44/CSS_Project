@@ -2,4 +2,36 @@ body{
     background-color: rgb(92, 0, 85);
     color: rgb(249, 104, 249);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: normal;
+    
+    /* same as avobe
+    font: normal 17px Arial, Helvetica, sans-serif;
+    */
+    line-height: 1.5em;
+}
+
+.dram{
+    width: 80%x;
+    margin: auto;
+}
+
+.box-1{
+    background-color: brown;
+    color: darkblue;
+}
+
+
+.dram2{
+    width: 80%x;
+    margin: auto;
+}
+
+.box-2{
+    background-color: rgb(20, 3, 118);
+    color: rgb(134, 134, 213);
+    border-right:1px darkturquoise solid;
+    border-left: 1px darkturquoise solid;
+    border-top: 5px darkturquoise solid;
+    border-bottom: 5px darkturquoise solid;
 }
