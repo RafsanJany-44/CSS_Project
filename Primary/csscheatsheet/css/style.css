@@ -56,8 +56,12 @@ body{
     border-bottom: 5px darkturquoise solid;
     border-style: dotted;
 
+    /*this is the important part pading and margin */
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 40px;
     padding-right: 20px;
-    padding-left: 20px;
+    padding-left: 40px;
+    
+    
+    margin: auto;
 }
