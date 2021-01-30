@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(92, 0, 85);
+    background-color: rgb(18, 157, 172);
     color: rgb(249, 104, 249);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 17px;
@@ -48,7 +48,7 @@ body{
 }
 
 .box-3{
-    background-color: rgb(20, 3, 118);
+    background-color: rgba(255, 255, 255, 0.4);
     color: rgb(134, 134, 213);
     border-right:1px darkturquoise solid;
     border-left: 1px darkturquoise solid;
@@ -83,7 +83,7 @@ main{
 
 .glass{
     background: white;
-    min-height: 80vh;
+    min-height: 70vh;
     width: 60%;
     background: linear-gradient(
         to right bottom,
