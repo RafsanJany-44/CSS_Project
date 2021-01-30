@@ -51,10 +51,10 @@ body{
     background-color: rgba(255, 255, 255, 0.4);
     color: rgb(74, 74, 135);
     
-    border-right:1px darkturquoise solid;
-    border-left: 1px darkturquoise solid;
-    border-top: 5px darkturquoise solid;
-    border-bottom: 5px darkturquoise solid;
+    border-right:1px rgb(13, 14, 14) solid;
+    border-left: 1px rgb(5, 6, 6) solid;
+    border-top: 5px rgb(0, 0, 0) solid;
+    border-bottom: 5px rgb(0, 0, 0) solid;
     border-style: dotted;
     border-radius: 1.5rem;
 
