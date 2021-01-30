@@ -49,12 +49,14 @@ body{
 
 .box-3{
     background-color: rgba(255, 255, 255, 0.4);
-    color: rgb(134, 134, 213);
+    color: rgb(74, 74, 135);
+    
     border-right:1px darkturquoise solid;
     border-left: 1px darkturquoise solid;
     border-top: 5px darkturquoise solid;
     border-bottom: 5px darkturquoise solid;
     border-style: dotted;
+    border-radius: 1.5rem;
 
     /*this is the important part pading and margin */
     padding-top: 20px;
