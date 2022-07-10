@@ -4,3 +4,19 @@ h1{color:red;
     p{
         color:blue;
     }
+
+.param_1{
+    background-color:aqua;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:12px;
+    font-weight: normal;
+}
+
+.param_2{
+    background-color:gray;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:16px;
+    font-weight: normal;
+}
