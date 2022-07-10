@@ -1,12 +1,10 @@
 .normal{
     background-color:aquamarine;
     color: white;
-    margin-bottom: 50%;
 }
 
 .glass{
     background-color:rgb(76, 49, 49);
     color: black;
-    opacity: .7;
-    margin:75%;
+    opacity: .4;
 }
