@@ -1,15 +1,16 @@
-h1{
+.param-1{
     background-color: antiquewhite;
-    color: red;
+    color: yellow;
     font-size:100px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h2{
+.param-2{
 color:rgba(66, 16, 84, 0.132);
 }
 
-p{
+
+.param-3{
 background-color:aquamarine;
 color: blueviolet;
 }
