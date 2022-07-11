@@ -1,0 +1,15 @@
+h1{
+    background-color: antiquewhite;
+    color: red;
+    font-size:100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+color:rgba(66, 16, 84, 0.132);
+}
+
+p{
+background-color:aquamarine;
+color: blueviolet;
+}
