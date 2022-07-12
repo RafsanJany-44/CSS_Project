@@ -16,3 +16,35 @@
     border-left: 10px solid;
     border-right: 10px solid;
 }
+
+.param_2{
+    background-color:greenyellow;
+    margin-right: 150px;
+    vertical-align: middle;
+    
+}
+
+
+.param_3{
+    background-color:aquamarine;
+    margin-right: 150px;
+    vertical-align: middle;
+    
+}
+
+
+.float-parent-element { 
+   
+} 
+.float-child-element { 
+    float: left; 
+    
+} 
+.red { 
+    background-color: red; 
+    margin-left: 50%; 
+} 
+.yellow { 
+    margin-left: 50%; 
+    background-color: yellow; 
+}
