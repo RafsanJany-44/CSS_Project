@@ -1,0 +1,25 @@
+.param_1{
+    background-color:red;
+    
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-left: 10px solid;
+    border-right: 10px solid;
+}
+
+.param_2{
+    background-color:greenyellow;
+
+    margin-right: 40px;
+    
+}
