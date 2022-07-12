@@ -19,29 +19,32 @@
 
 .param_2{
     background-color:greenyellow;
-
     margin-right: 150px;
+    vertical-align: middle;
     
 }
 
 
 .param_3{
     background-color:aquamarine;
-    
     margin-right: 150px;
+    vertical-align: middle;
     
 }
 
 
-
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
+.float-parent-element { 
+   
+} 
+.float-child-element { 
+    float: left; 
+    
+} 
+.red { 
+    background-color: red; 
+    margin-left: 50%; 
+} 
+.yellow { 
+    margin-left: 50%; 
+    background-color: yellow; 
 }
-
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-}  
