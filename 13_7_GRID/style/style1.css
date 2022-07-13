@@ -1,0 +1,46 @@
+.parent_1{
+    background-color:antiquewhite;
+    padding:1em;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+
+
+.child_1{
+    background-color:rebeccapurple;
+    color:white;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+}
+
+.child_2{
+    background-color:rgb(57, 255, 159);
+    color:white;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+}
+
+
+.child_3{
+    background-color:rgb(77, 17, 242);
+    color:white;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+}
+
+
+.child_4{
+    background-color:rgb(236, 20, 92);
+    color:white;
+    margin: 2%;
+    padding: 2%;
+    border: 3px solid;
+    border-color: black;
+}
