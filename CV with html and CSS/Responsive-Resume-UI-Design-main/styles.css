@@ -9,7 +9,7 @@
 }
 
 body{
-	background: #c4c4c4;
+	background: #060606;
 	font-size: 14px;
 	line-height: 20px;
 }
@@ -80,7 +80,7 @@ body{
 }
 
 .resume_wrapper .resume_left .resume_contact .resume_info:last-child{
-	 margin-top: 10px;
+	margin-top: 10px;
 }
 
 .resume_wrapper .resume_left .resume_contact .resume_subtitle{
